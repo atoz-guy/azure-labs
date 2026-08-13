@@ -75,3 +75,5 @@ This lab successfully demonstrates:
 - Firewall subnet requirements  
 - VNet peering  
 - Hub-and-spoke architecture fundamentals  
+
+<img width="1920" height="1128" alt="AZ-104 Hub-and-Spoke Lab Summary" src="https://github.com/user-attachments/assets/7a5bdbd9-a4e6-47d8-8a99-86e39449aa05" />
