@@ -8,7 +8,7 @@ A collection of hands-on Microsoft Azure labs focused on AZ-104 Administrator sk
 
 ### Foundations
 - **Manage Subscriptions and RBAC**  
-  Folder: [`azure_104_hub-and-spoke-lab-summary`](azure_104_hub-and-spoke-lab-summary)
+  Folder: [`azure_104_manage-subscriptions-and-rbac_roles`](azure_104_manage-subscriptions-and-rbac_roles)
   Covers management groups, RBAC inheritance, and custom role creation.
 
 - **Hub-and-Spoke Virtual Network Architecture**  
